@@ -1,0 +1,19 @@
+registers:
+  - formal_public_address
+  - campaign_speech
+  - congressional_message
+  - legal_document
+  - military_order
+  - battle_report
+  - official_correspondence
+  - private_letter
+  - semi_public_letter
+  - diary_or_journal
+  - sermon_or_prophetic_address
+  - poetry
+  - literary_prose
+  - newspaper_article
+  - retrospective_memoir
+  - postwar_apologia
+  - fragment_private
+

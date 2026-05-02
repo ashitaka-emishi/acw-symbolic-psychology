@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "document_summary.schema.json",
+  "title": "Document Summary",
+  "type": "object",
+  "required": ["document_id", "actor_id", "dominant_clusters", "notes"],
+  "properties": {
+    "document_id": { "type": "string" },
+    "actor_id": { "type": "string" },
+    "dominant_clusters": { "type": "array", "items": { "type": "string" } },
+    "source_domain_distribution": { "type": "object" },
+    "target_domain_distribution": { "type": "object" },
+    "notes": { "type": "string" }
+  }
+}
+

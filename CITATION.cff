@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "ACW Symbolic Psychology"
+authors:
+  - family-names: Hammer
+    given-names: Andrew
+date-released: 2026-05-02
+license: MIT
+repository-code: "https://github.com/ashitaka-emishi/acw-symbolic-psychology"
+

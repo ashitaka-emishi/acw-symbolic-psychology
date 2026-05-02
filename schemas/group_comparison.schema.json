@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "group_comparison.schema.json",
+  "title": "Group Comparison",
+  "type": "object",
+  "required": ["group_id", "actors", "cluster_distribution", "violence_logic_distribution", "notes"],
+  "properties": {
+    "group_id": { "type": "string" },
+    "actors": { "type": "array", "items": { "type": "string" } },
+    "cluster_distribution": { "type": "object" },
+    "violence_logic_distribution": { "type": "object" },
+    "magical_object_distribution": { "type": "object" },
+    "guilt_distribution": { "type": "object" },
+    "action_orientation_distribution": { "type": "object" },
+    "absence_flags": { "type": "object" },
+    "exit_condition_analysis": { "type": "string" },
+    "register_controls": { "type": "string" },
+    "notes": { "type": "string" }
+  }
+}
+

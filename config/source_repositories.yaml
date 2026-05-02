@@ -1,0 +1,32 @@
+repositories:
+  lincoln_pilot:
+    label: "Lincoln metaphor analysis pilot"
+    url: "https://github.com/ashitaka-emishi/lincoln-metaphor-analysis"
+  collected_works_lincoln:
+    label: "Collected Works of Abraham Lincoln"
+    url: "https://quod.lib.umich.edu/l/lincoln/"
+  lincoln_papers_loc:
+    label: "Abraham Lincoln Papers, Library of Congress"
+    url: "https://www.loc.gov/collections/abraham-lincoln-papers/"
+  douglass_papers_loc:
+    label: "Frederick Douglass Papers, Library of Congress"
+    url: "https://www.loc.gov/collections/frederick-douglass-papers/"
+  davis_papers_rice:
+    label: "Papers of Jefferson Davis, Rice University"
+    url: "https://jeffersondavis.rice.edu/"
+  grant_papers_msu:
+    label: "Papers of Ulysses S. Grant, Mississippi State"
+    url: "https://scholarsjunction.msstate.edu/papers-of-ulysses-s-grant/"
+  whitman_archive:
+    label: "Walt Whitman Archive"
+    url: "https://whitmanarchive.org/"
+  project_gutenberg:
+    label: "Project Gutenberg"
+    url: "https://www.gutenberg.org/"
+  library_of_congress:
+    label: "Library of Congress"
+    url: "https://www.loc.gov/"
+  internet_archive:
+    label: "Open Library / Internet Archive"
+    url: "https://openlibrary.org/"
+

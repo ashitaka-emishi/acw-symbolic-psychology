@@ -30,9 +30,19 @@ dist/
 data/raw/*
 data/interim/*
 data/processed/*
+data/normalized/*
+data/segmented/*
+data/annotated/*
+data/derived/*
+data/reliability_samples/*
 !data/raw/.gitkeep
 !data/interim/.gitkeep
 !data/processed/.gitkeep
+!data/normalized/.gitkeep
+!data/segmented/.gitkeep
+!data/annotated/.gitkeep
+!data/derived/.gitkeep
+!data/reliability_samples/.gitkeep
 
 # OS/editor noise
 .DS_Store

@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "corpus_manifest.schema.json",
+  "title": "Corpus Manifest",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "document_id",
+      "actor_id",
+      "title",
+      "short_title",
+      "date",
+      "date_precision",
+      "phase",
+      "register",
+      "genre",
+      "authorship",
+      "authorship_confidence",
+      "source_repository",
+      "source_url",
+      "source_citation",
+      "transcription_status",
+      "risk_flags",
+      "inclusion_rationale",
+      "analytical_priority",
+      "expected_cluster_priors",
+      "notes"
+    ],
+    "properties": {
+      "document_id": { "type": "string" },
+      "actor_id": { "type": "string" },
+      "title": { "type": "string" },
+      "short_title": { "type": "string" },
+      "date": { "type": "string" },
+      "date_precision": { "type": "string" },
+      "phase": { "type": "string" },
+      "register": { "type": "string" },
+      "genre": { "type": "string" },
+      "authorship": { "type": "string" },
+      "authorship_confidence": { "type": "string" },
+      "source_repository": { "type": "string" },
+      "source_url": { "type": "string" },
+      "source_citation": { "type": "string" },
+      "transcription_status": { "type": "string" },
+      "risk_flags": { "type": "array", "items": { "type": "string" } },
+      "inclusion_rationale": { "type": "string" },
+      "analytical_priority": { "type": "string" },
+      "expected_cluster_priors": { "type": "array", "items": { "type": "string" } },
+      "notes": { "type": "string" }
+    }
+  }
+}
+

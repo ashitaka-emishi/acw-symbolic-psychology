@@ -1,0 +1,97 @@
+source_domains:
+  - body
+  - wound
+  - disease
+  - healing
+  - birth
+  - death
+  - blood
+  - family
+  - home
+  - architecture
+  - foundation
+  - machine
+  - instrument
+  - journey
+  - law
+  - contract
+  - covenant
+  - trial
+  - experiment
+  - light_dark
+  - fire
+  - storm
+  - agriculture
+  - property
+  - captivity
+  - religion
+  - providence
+  - sacrifice
+  - debt
+  - honor
+  - voice
+  - vision
+
+fantasy_types:
+  - wound_and_healing
+  - disease_and_purification
+  - birth_and_creation
+  - sacrifice_and_redemption
+  - oath_and_obligation
+  - punishment_and_theodicy
+  - ancestral_debt
+  - experiment_and_proof
+  - honor_and_vindication
+  - captivity_and_deliverance
+  - home_defense
+  - machine_pressure
+  - apocalypse_and_judgment
+  - witness_and_mourning
+
+violence_logics:
+  - restorative
+  - generative
+  - punitive
+  - purifying
+  - evidentiary
+  - obligatory
+  - defensive
+  - redemptive
+  - instrumental
+  - exhaustive
+  - protective
+  - vindicating
+  - apocalyptic
+
+action_orientations:
+  - preserve_union
+  - destroy_slavery
+  - defend_sovereignty
+  - defend_home
+  - vindicate_honor
+  - obey_providence
+  - redeem_sin
+  - prove_democracy
+  - punish_enemy
+  - purify_body_politic
+  - exhaust_resistance
+  - break_war_capacity
+  - protect_army
+  - bear_witness
+  - heal_after_violence
+  - reconcile_after_violence
+
+magical_objects:
+  - union_body
+  - confederate_nation
+  - state_sovereignty
+  - racial_order
+  - enslaved_humanity
+  - founding_proposition
+  - constitutional_covenant
+  - army_body
+  - home_or_virginia
+  - divine_will
+  - democratic_people
+  - wounded_soldier_body
+

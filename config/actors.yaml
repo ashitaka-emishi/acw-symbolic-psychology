@@ -1,0 +1,50 @@
+actors:
+  lincoln:
+    name: "Abraham Lincoln"
+    groups: [union_political, official_state_voice, wartime_public_voice]
+    scaffold: scaffolds/persons/lincoln.md
+  douglass:
+    name: "Frederick Douglass"
+    groups: [abolitionist_prophetic, prophetic_moral_voice, wartime_public_voice]
+    scaffold: scaffolds/persons/douglass.md
+  davis:
+    name: "Jefferson Davis"
+    groups: [confederate_political, official_state_voice, postwar_justification_voice]
+    scaffold: scaffolds/persons/jefferson_davis.md
+  stephens:
+    name: "Alexander H. Stephens"
+    groups: [confederate_political, official_state_voice, postwar_justification_voice]
+    scaffold: scaffolds/persons/alexander_stephens.md
+  brown:
+    name: "John Brown"
+    groups: [abolitionist_prophetic, prophetic_moral_voice]
+    scaffold: scaffolds/persons/john_brown.md
+  lee:
+    name: "Robert E. Lee"
+    groups: [confederate_military, military_command_voice, retrospective_memoir_voice]
+    scaffold: scaffolds/persons/robert_e_lee.md
+  jackson:
+    name: "Thomas J. Stonewall Jackson"
+    groups: [confederate_military, military_command_voice, private_or_semi_private_voice]
+    scaffold: scaffolds/persons/stonewall_jackson.md
+  longstreet:
+    name: "James Longstreet"
+    groups: [confederate_military, military_command_voice, retrospective_memoir_voice]
+    scaffold: scaffolds/persons/james_longstreet.md
+  grant:
+    name: "Ulysses S. Grant"
+    groups: [union_military, military_command_voice, retrospective_memoir_voice]
+    scaffold: scaffolds/persons/ulysses_s_grant.md
+  mcclellan:
+    name: "George B. McClellan"
+    groups: [union_military, military_command_voice, postwar_justification_voice]
+    scaffold: scaffolds/persons/george_mcclellan.md
+  sherman:
+    name: "William Tecumseh Sherman"
+    groups: [union_military, military_command_voice, retrospective_memoir_voice]
+    scaffold: scaffolds/persons/william_tecumseh_sherman.md
+  whitman:
+    name: "Walt Whitman"
+    groups: [literary_cultural_witness, wartime_public_voice, private_or_semi_private_voice]
+    scaffold: scaffolds/persons/walt_whitman.md
+

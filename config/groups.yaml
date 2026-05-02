@@ -1,0 +1,23 @@
+primary_groups:
+  union_political:
+    actors: [lincoln]
+  union_military:
+    actors: [grant, sherman, mcclellan]
+  abolitionist_prophetic:
+    actors: [douglass, brown]
+  confederate_political:
+    actors: [davis, stephens]
+  confederate_military:
+    actors: [lee, jackson, longstreet]
+  literary_cultural_witness:
+    actors: [whitman]
+
+secondary_groups:
+  official_state_voice: []
+  military_command_voice: []
+  prophetic_moral_voice: []
+  retrospective_memoir_voice: []
+  wartime_public_voice: []
+  private_or_semi_private_voice: []
+  postwar_justification_voice: []
+

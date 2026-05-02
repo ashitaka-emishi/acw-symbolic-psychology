@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "person_profile.schema.json",
+  "title": "Person Profile",
+  "type": "object",
+  "required": ["actor_id", "dominant_clusters", "magical_object_profile", "violence_logic_profile", "disconfirmed_priors"],
+  "properties": {
+    "actor_id": { "type": "string" },
+    "dominant_clusters": { "type": "array", "items": { "type": "string" } },
+    "magical_object_profile": { "type": "string" },
+    "violence_logic_profile": { "type": "string" },
+    "guilt_distribution": { "type": "string" },
+    "sacrificial_economy": { "type": "string" },
+    "agency_and_absence_analysis": { "type": "string" },
+    "action_orientation_analysis": { "type": "string" },
+    "diachronic_shifts": { "type": "string" },
+    "register_differences": { "type": "string" },
+    "comparison_hooks": { "type": "array", "items": { "type": "string" } },
+    "disconfirmed_priors": { "type": "array", "items": { "type": "string" } }
+  }
+}
+

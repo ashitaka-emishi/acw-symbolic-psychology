@@ -1,0 +1,11 @@
+{
+  "name": "acw-symbolic-psychology",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Research monorepo for American Civil War symbolic psychology and metaphor analysis.",
+  "scripts": {
+    "test": "uv run pytest",
+    "pipeline": "uv run python scripts/run_pipeline.py"
+  }
+}
+

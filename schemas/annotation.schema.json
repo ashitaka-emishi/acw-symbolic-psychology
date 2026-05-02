@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "annotation.schema.json",
+  "title": "Metaphor Annotation",
+  "type": "object",
+  "required": [
+    "annotation_id",
+    "segment_id",
+    "metaphor_present",
+    "source_domain",
+    "target_domain",
+    "cluster",
+    "magical_object",
+    "violence_logic",
+    "action_orientation",
+    "confidence",
+    "uncertainty_notes"
+  ],
+  "properties": {
+    "annotation_id": { "type": "string" },
+    "segment_id": { "type": "string" },
+    "metaphor_present": { "type": "boolean" },
+    "source_domain": { "type": "string" },
+    "target_domain": { "type": "string" },
+    "cluster": { "type": "string" },
+    "magical_object": { "type": "string" },
+    "violence_logic": { "type": "string" },
+    "guilt_distribution": { "type": "string" },
+    "agency_assignment": { "type": "string" },
+    "action_orientation": { "type": "string" },
+    "absence_flags": { "type": "array", "items": { "type": "string" } },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+    "uncertainty_notes": { "type": "string" }
+  }
+}
+

@@ -1,0 +1,10 @@
+phases:
+  antebellum_baseline: "before 1854"
+  sectional_crisis: "1854-1860"
+  secession_crisis: "November 1860-April 1861"
+  early_war: "April 1861-December 1862"
+  emancipation_war: "January 1863-November 1863"
+  hard_war_and_reelection: "December 1863-November 1864"
+  collapse_and_reconstruction_threshold: "December 1864-April 1865"
+  postwar_memory: "after April 1865"
+
